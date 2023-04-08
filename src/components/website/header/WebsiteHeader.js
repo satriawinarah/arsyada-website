@@ -14,19 +14,7 @@ function WebsiteHeader() {
                     </li>
                     <li>
                         <a href="src/components/website/header/WebsiteHeader.js" className="page-scroll">
-                            <span className="menu-title">Speakers</span>
-                            <span className="dot"></span>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="src/components/website/header/WebsiteHeader.js" className="page-scroll">
-                            <span className="menu-title">Buy Tickets</span>
-                            <span className="dot"></span>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="src/components/website/header/WebsiteHeader.js" className="page-scroll">
-                            <span className="menu-title">Schedule</span>
+                            <span className="menu-title">Mentors</span>
                             <span className="dot"></span>
                         </a>
                     </li>
@@ -35,12 +23,12 @@ function WebsiteHeader() {
             <div className="container-fluid">
                 <div className="row hero-header" id="home">
                     <div className="col-md-7">
-                        <img src="assets/img/meetup-logo.png" className="logo"/>
-                        <h1>Attend the most awaited Conference of 2015</h1>
-                        <h3>to start you up with your business!</h3>
-                        <h4>20<sup>th</sup> to 22<sup>nd</sup> October, 2015</h4>
-                        <a href="src/components/website/header/Header#WebsiteHeader.js" className="btn btn-lg btn-red">Buy
-                            Tickets Now
+                        <img src="assets/img/arsyada-logo.png" className="logo"/>
+                        <h1>Accompany yourself with a good mentor</h1>
+                        <h3>Or be the mentor to help others</h3>
+                        <h4>Both beneficial</h4>
+                        <a href="src/components/website/header/Header#WebsiteHeader.js" className="btn btn-lg btn-red">
+                            Register Now
                             <span className="ti-arrow-right"></span>
                         </a>
                     </div>
