@@ -38,16 +38,16 @@ function WebsiteFooter() {
           </div>
           <div class="col-md-4 col-md-offset-1 content-ct">
             <h3><span class="ti-twitter"></span> Twitter Feed</h3>
-            <p>Lorem <a href="#">#Ipsum</a> is a dummy text used as a text filler in designs. This is just a dummy text. via <a href="#">@designerdada</a> </p>
+            <p>Great application to get your best mentor, for your work or even for your life. via <a href="#">@sweethayley</a> </p>
             <hr/>
-            <p>Lorem Ipsum is a <a href="#">#dummy</a> text used as a text filler in designs. This is just a dummy text. via <a href="#">@designerdada</a> </p>
+            <p>Not just learning but also I can find a friend who help me learn. via <a href="#">@josejosh</a> </p>
             <hr/>
-            <p>Lorem Ipsum is a <a href="#">#dummy</a> text used as a text filler in designs. This is just a dummy text. via <a href="#">@designerdada</a> </p>
+            <p>I am falling in love with my beautiful mentor. via <a href="#">@greatgeorge</a> </p>
           </div>
         </div>
         <div class="row footer-credit">
           <div class="col-md-6 col-sm-6">
-            <p>&copy; 2015, <a href="http://www.designerdada.com">DesignerDada.com</a> | All rights reserved.</p>
+            <p>&copy; 2015, <a href="http://www.arsyada.com">Arsyada.com</a> | All rights reserved.</p>
           </div>
           <div class="col-md-6 col-sm-6"> 
             <ul class="footer-menu">
